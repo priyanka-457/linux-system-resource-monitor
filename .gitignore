@@ -1,0 +1,13 @@
+# folders
+.idea/
+.vscode/
+build/*
+monitor/
+cmake-build-debug/*
+
+# files
+*.o
+*.json
+a.out
+settings.jsonbuildcd/
+buildcd/
